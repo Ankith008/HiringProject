@@ -11,7 +11,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import JobCard from "@/components/jobCard";
+import JobCard from "@/components/JobCard";
 
 import { getJobs } from "@/api/apijobs";
 import { getCompanies } from "@/api/apiCompanies";
